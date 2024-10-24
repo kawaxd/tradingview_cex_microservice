@@ -1,0 +1,14 @@
+{
+  "name": "tradingview_cex_microservice",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "ccxt": "^4.4.23"
+  }
+}
